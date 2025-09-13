@@ -1,4 +1,4 @@
-# Local RAG AI Assistant
+# PAx2 (PAPA), a local RAG AI Assistant
 
 A fully local Retrieval-Augmented Generation (RAG) API powered by Ollama, designed to intelligently answer queries using your own database. This project demonstrates how to build a private AI assistant with vector embeddings, REST APIs, and C#.
 
